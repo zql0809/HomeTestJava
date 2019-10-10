@@ -1,0 +1,16 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /zqljavatest
+
+redis:
+  port: 6379
+  hosts:
+    - 127.0.0.1
+    - 197.12.2.3
+  rList:
+    - port: 1234322
+      host: 4232
+    - port: 1232132
+      host: 123123
+
